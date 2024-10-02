@@ -1,0 +1,11 @@
+/* Documento css */
+
+body {background-color: rgb(3, 3, 3); text-align: center;}
+h1, h3 {color: beige;
+        font-family: Matemasie, sans-serif;}
+h2, h4, p {color:blueviolet;
+    font-family: Matemasie, sans-serif;}
+p {color: beige;
+   font-family: Quicksand, sans-serif;}
+p small {color: aquamarine;
+         font-family: Quicksand, sans-serif;}

@@ -1,0 +1,37 @@
+/*DOCUMENTO CSS*/
+
+* {margin: 0;}
+
+body {background-color: #172821;}
+
+h1 {color: #92c27a; 
+    font-family: Matemasie, sans-serif; 
+    text-align: center}
+
+h2, h3 {color: #92c27a; 
+            font-family: Matemasie, sans-serif; 
+            text-align: center; 
+            padding: 10px;}
+
+p {color: #92c27a;
+   font-family: Quicksand, sans-serif; 
+   text-align: center; 
+   width: 60%;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 20px;
+   }
+   .pie {margin-top: 10px;}
+   .fig {color: #57825b;}
+
+div {width: 100%; 
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    box-sizing: border-box;}
+
+.picture {display: block;
+          margin-left: auto;
+          margin-right: auto;
+          margin-bottom: 20px;
+          width: 500px;}
