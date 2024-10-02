@@ -1,0 +1,23 @@
+/*DOCUMENTO CSS*/
+
+* {margin: 0;
+    font-family: Quicksand, Sans-serif;}
+
+h1 {background-color: black;
+    color: beige;
+    text-align: center;
+    padding: 15px 15px;}
+
+h2 {font-family: Matemasie, sans-serif;}
+
+.segundo {color: #8a2be2;}
+
+.lista {width: 40%;
+        min-height: 1px;
+        background-color: aquamarine;
+        margin: 15px auto 15px auto;
+        padding: 15px 15px 15px 0px;}
+
+.RELLENO {padding-left: 30px;}
+
+div {box-sizing: border-box;}
